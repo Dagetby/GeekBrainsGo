@@ -1,3 +1,1 @@
-module hello-world
-
-go 1.15
+module "GeekBraisGo"
