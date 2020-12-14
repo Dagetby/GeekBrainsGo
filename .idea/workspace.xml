@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88e6ce5f-ab51-41fd-b37b-cf65ea821fc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson3/cpu.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3/lesson3.test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3/mem.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/main_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/main_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="sort" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +45,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
