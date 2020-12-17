@@ -1,5 +1,11 @@
 .idea
+<<<<<<< HEAD
 DS_Store
 **/*.exe
 .out
 .xml
+=======
+.exe
+.out
+.DS_Store
+>>>>>>> fib
